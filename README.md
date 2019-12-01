@@ -4,7 +4,7 @@ This is a simple example showing [gRPC](https://grpc.io/) [golang](https://golan
 
 # Requirements
 
-1.  [gcloud](https://cloud.google.com/sdk/gcloud/) with local authentication and GCP billing setup.
+1.  [gcloud](https://cloud.google.com/sdk/gcloud/) with local authentication, project and GCP billing setup.
 2.  [docker](https://www.docker.com/)
 
 # Optional
